@@ -1,0 +1,444 @@
+Task: 2, Test Name: Element is displayed, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: filterBtn, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: SMALL____105, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__212, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__237, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Result list should have had same number of items as filter counter, DOM Id: SMALL____105, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 2, Test Name: Element is displayed, DOM Id: ti-filter, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: ti-filter, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: filterBtn, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: SMALL____105, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__212, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__237, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Result list should have had same number of items as filter counter, DOM Id: SMALL____105, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 2, Test Name: Element is displayed, DOM Id: ti-filter, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: ti-filter, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: filterBtn, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: SMALL____105, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__212, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__237, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Result list should have had same number of items as filter counter, DOM Id: SMALL____105, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 2, Test Name: Element is displayed, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: filterBtn, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: SMALL____105, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__212, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__237, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 2, Test Name: Result list should have had same number of items as filter counter, DOM Id: SMALL____105, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 2, Test Name: Element is displayed, DOM Id: ti-filter, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: ti-filter, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: filterBtn, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: SMALL____105, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__212, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__237, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: ti-filter, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: ti-filter, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: LABEL__containerc__104, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: filterBtn, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is enabled, DOM Id: filterBtn, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: SMALL____105, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__212, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__237, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Element is displayed, DOM Id: DIV__griditem__259, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 2, Test Name: Result list should have had same number of items as filter counter, DOM Id: SMALL____105, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element color is same, DOM Id: old_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element color is same, DOM Id: old_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element color is same, DOM Id: old_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SMALL____84, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (1200, 700), Device: Laptop, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (768, 700), Device: Tablet, Status: Fail
+Task: 3, Test Name: Element is displayed, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__btnaddtoca__113, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__pricemain__108, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__89, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: DIV__numbersrow__102, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_img, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: SPAN__rating__76, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: logo, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__btnsearchm__59, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: P____83, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: shoe_name, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is displayed, DOM Id: LABEL__colxlcollg__99, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: BUTTONsubmit____43, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__submenu__22, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__24, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__26, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__28, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: LI__megamenusu__30, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element is hidden, DOM Id: DIV__customsear__41, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Pass
+Task: 3, Test Name: Element text is same, DOM Id: , Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element text is same, DOM Id: new_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__cartbt__49, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__accesslink__56, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: A__wishlist__52, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element location is same, DOM Id: EM__ratingcoun__82, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail
+Task: 3, Test Name: Element color is same, DOM Id: old_price, Browser: chrome, Viewport: (500, 700), Device: Mobile, Status: Fail

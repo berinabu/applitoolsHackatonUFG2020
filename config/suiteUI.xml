@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" parallel="methods" data-provider-thread-count="3">
+    <listeners>
+        <listener class-name="common.listeners.Listener"/>
+        <listener class-name="common.listeners.DriverListener"/>
+    </listeners>
+    <test name="Traditional Approach">
+        <classes>
+            <class name="TraditionalTestsV1.TraditionalTestsV1"/>
+            <class name="TraditionalTestsV2.TraditionalTestsV2"/>
+        </classes>
+    </test>
+
+    <test name="Modern Approach">
+        <classes>
+            <class name="ModernTestsV1.ModernTestsV1"/>
+            <class name="ModernTestsV2.ModernTestsV2"/>
+        </classes>
+    </test>
+</suite>

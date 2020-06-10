@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+    <windows>
+        <driver id="googlechrome">
+            <version id="83.0.4103.39">
+                <bitrate thirtytwobit="true" sixtyfourbit="true">
+                    <filelocation>https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_win32.zip
+                    </filelocation>
+                    <hash>e06f7553e68df7eec76a6fd0e1a21317807bf945</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+        <driver id="marionette">
+            <version id="0.26.0">
+                <bitrate sixtyfourbit="true">
+                    <filelocation>
+                        https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win64.zip
+                    </filelocation>
+                    <hash>ca224a47e3a2f6370058b8d715fe577169398847</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+                <bitrate thirtytwobit="true">
+                    <filelocation>
+                        https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-win32.zip
+                    </filelocation>
+                    <hash>8feb0fe8655c6b67dd5afb714a50bdca810cbf7a</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+        <driver id="edge">
+            <version id="83">
+                <bitrate sixtyfourbit="true">
+                    <filelocation>https://msedgedriver.azureedge.net/83.0.478.33/edgedriver_win64.zip</filelocation>
+                    <hash>19b60484ae55d8067fe214fb6aba9a0e63469cfc</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+                <bitrate thirtytwobit="true">
+                    <filelocation>https://msedgedriver.azureedge.net/83.0.478.33/edgedriver_win32.zip</filelocation>
+                    <hash>c3d1464b27173143d99247e9d0d3dfb78e552282</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+    </windows>
+    <linux>
+        <driver id="googlechrome">
+            <version id="83.0.4103.39">
+                <bitrate sixtyfourbit="true">
+                    <filelocation>https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_linux64.zip
+                    </filelocation>
+                    <hash>fb412fdbf282ec5ceeddb2f6cf700268fde4ee44</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+        <driver id="marionette">
+            <version id="0.26.0">
+                <bitrate sixtyfourbit="true">
+                    <filelocation>
+                        https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz
+                    </filelocation>
+                    <hash>7d3d597146b82989030f20bdb0b973916c5042a3</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+                <bitrate thirtytwobit="true">
+                    <filelocation>
+                        https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux32.tar.gz
+                    </filelocation>
+                    <hash>1CBC8C957A02978ADC6EDF6171D76C22566D3202</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+        <driver id="edge">
+            <version id="83">
+                <bitrate sixtyfourbit="true">
+                    <filelocation>https://msedgedriver.azureedge.net/83.0.478.33/edgedriver_win64.zip</filelocation>
+                    <hash>19b60484ae55d8067fe214fb6aba9a0e63469cfc</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+                <bitrate thirtytwobit="true">
+                    <filelocation>https://msedgedriver.azureedge.net/83.0.478.33/edgedriver_win32.zip</filelocation>
+                    <hash>c3d1464b27173143d99247e9d0d3dfb78e552282</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+    </linux>
+    <osx>
+        <driver id="googlechrome">
+            <version id="83.0.4103.39">
+                <bitrate sixtyfourbit="true">
+                    <filelocation>https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_mac64.zip
+                    </filelocation>
+                    <hash>5ad2f2fa798095f20a7086b1bad1047fb138fa83</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+        <driver id="marionette">
+            <version id="0.26.0">
+                <bitrate thirtytwobit="true" sixtyfourbit="true">
+                    <filelocation>
+                        https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-macos.tar.gz
+                    </filelocation>
+                    <hash>577d33995972626550e7ee7bdb3ad7a9aaf76414</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+        <driver id="edge">
+            <version id="83">
+                <bitrate sixtyfourbit="true">
+                    <filelocation>https://msedgedriver.azureedge.net/83.0.478.33/edgedriver_mac64.zip</filelocation>
+                    <hash>4358ed5e02997a0298d154233a369ecb12db800f</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+    </osx>
+</root>
