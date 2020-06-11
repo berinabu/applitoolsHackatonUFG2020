@@ -27,19 +27,14 @@ public class DriverListener implements IInvokedMethodListener {
         if (method.isTestMethod()) {
             try {
                 WebDriver driver = DriverFactory.createInstance();
-                VisualGridRunner runner = new VisualGridRunner(10);
-                Eyes eyes = new Eyes(runner);
-                try {
-                    assert driver != null;
-                    assert runner != null;
-                    assert eyes != null;
-
-                } catch (Exception e) {
-                    System.out.println(e);
-                }
                 DriverManager.setWebDriver(driver);
-                DriverManager.setVisualRunner(runner);
-                DriverManager.setWebEye(eyes);
+
+                if (testResult.getTestClass().getName().startsWith("ModernTests")) {
+                    VisualGridRunner runner = new VisualGridRunner(10);
+                    Eyes eyes = new Eyes(runner);
+                    DriverManager.setVisualRunner(runner);
+                    DriverManager.setWebEye(eyes);
+                }
             } catch (Exception e) {
                 e.printStackTrace();
             }

@@ -17,10 +17,6 @@ import java.util.Set;
 import static org.testng.Assert.assertFalse;
 
 public class FashionAppTraditionalSteps extends BasePageSteps {
-    public FashionAppTraditionalSteps() {
-        super();
-    }
-
     private FashionAppPageObject fashionAppPageObject = PageFactory.initElements(getDriver(), FashionAppPageObject.class);
     private ProductDetailsPageObject productDetailsPageObject = PageFactory.initElements(getDriver(), ProductDetailsPageObject.class);
 
@@ -93,7 +89,6 @@ public class FashionAppTraditionalSteps extends BasePageSteps {
 
         softAssert.assertTrue(seleniumCommon.hackathonReporter(2, "Element is displayed",
                 fashionAppPageObject.colorBlackFilterCounter.getAttribute("id"), fashionAppPageObject.colorBlackFilterCounter.isDisplayed()));
-        // TODO: Maybe to include only two items check black somehow
         fashionAppPageObject.productItemList.forEach(item -> softAssert.assertTrue(seleniumCommon.hackathonReporter(2,
                 "Element is displayed", item.getAttribute("id"), item.isDisplayed())));
 
@@ -174,14 +169,15 @@ public class FashionAppTraditionalSteps extends BasePageSteps {
     public void checkElementAttributes() {
         SoftAssert softAssert = new SoftAssert();
 
+        // Validate size and current price
         softAssert.assertTrue(seleniumCommon.hackathonReporter(
                 3, "Element text is same", productDetailsPageObject.currentShoeSize.getAttribute("id"),
                 productDetailsPageObject.getCurrentShoeSize().equals("Small (S)")));
-
         softAssert.assertTrue(seleniumCommon.hackathonReporter(
                 3, "Element text is same", productDetailsPageObject.newShoePrice.getAttribute("id"),
                 productDetailsPageObject.getNewPrice().equals("$33.00")));
 
+        // Validate elements position
         switch (seleniumCommon.getDeviceName()) {
             case "Tablet":
                 softAssert.assertTrue(seleniumCommon.hackathonReporter(
@@ -221,6 +217,7 @@ public class FashionAppTraditionalSteps extends BasePageSteps {
                         3, "Element location is same", productDetailsPageObject.ratingCounter.getAttribute("id"),
                         productDetailsPageObject.getRatingCounterPosition().equals("(105, 600)")));
 
+                // Validate element color attribute
                 softAssert.assertTrue(seleniumCommon.hackathonReporter(
                         3, "Element color is same", productDetailsPageObject.oldShoePrice.getAttribute("id"),
                         productDetailsPageObject.getOldPriceColor().equals("#999999")));
